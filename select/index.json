@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Always recall.",
+  "base_artist": "Roselia",
+  "createdAt": "2026-03-18T18:15:18.129073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Always recall.",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/01_Always_recall._Roselia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Always recall.",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_Always_recall._Roselia.txt"
+    }
+  ]
+}
